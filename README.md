@@ -19,6 +19,6 @@
 
 <p align="left">
   <img src="https://avatars.githubusercontent.com/u/65916846?v=4" alt="GitHub_Actions" width="60" height="60"/>
-  <img src="https://zupp.io/img/CiCd.ad63dcfd.png" alt="CI_CD" width="200" height="60"/> 
+  <img src="https://zupp.io/img/CiCd.ad63dcfd.png" alt="CI_CD" width="200" height="120"/> 
 </p>
 
