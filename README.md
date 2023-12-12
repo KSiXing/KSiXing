@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Si Xing <img src="https://disneyemojiblitz.fandom.com/wiki/IG-11?file=EmojiBlitzIG-11.png" alt="IG11" width="24" height="24"/></h1>
+<h1 align="center">Hello there, I'm Si Xing <img src="https://github.com/zachflauaus/emoji-repo/blob/master/images/starwars-baby-yoda.png" alt="Grogu" width="24" height="24"/></h1>
 
 <h3 align="center">GitHub Action Account</h3>
 
